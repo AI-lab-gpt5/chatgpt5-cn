@@ -1,7 +1,7 @@
 # ChatGPT中文版：ChatGPT-5 国内使用指南（支持GPT-5、GPT-4、4o画图及o1、o3、o4）【9月最新更新】
 
 在国内能轻松使用 ChatGPT 中文版，无需魔法，支持 GPT-5、4o、o1 及中文版功能。     
-本指南提供全面的 ChatGPT 中文版使用方法，涵盖国内可用的 ChatGPT 镜像网站推荐和详细使用教程，帮助您快速掌握 ChatGPT 的使用。 
+本指南提供全面的 ChatGPT 中文版使用方法，涵盖国内可用的 ChatGPT 镜像网站推荐和详细使用教程，帮助您快速掌握 ChatGPT 的使用。  
 
 - ChatGPT 中文版入口：[gptcat.cc](https://gptcat.cc)
 - ChatGPT 镜像网站直达：[snakegpt.vip](https://snakegpt.vip)
