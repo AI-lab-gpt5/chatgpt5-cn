@@ -4,7 +4,7 @@
 本指南提供全面的 ChatGPT 中文版使用方法，涵盖国内可用的 ChatGPT 镜像网站推荐和详细使用教程，帮助您快速掌握 ChatGPT 的使用。  
 
 - ChatGPT 中文版入口：[gptcat.cc](https://gptcat.cc)
-- ChatGPT 镜像网站直达：[snakegpt.vip](https://snakegpt.vip)
+- ChatGPT 镜像网站直达：[snakegpt.vip](https://snakegpt.vip) 
 
 ## 1、什么是 ChatGPT 中文版？
 
